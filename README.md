@@ -1,4 +1,4 @@
-# Hi👋, I’m Fandi 
+<h1 align="center">Hi👋, I’m Fandi</h1>
 
 <!--
 **fndiahmd/fndiahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
