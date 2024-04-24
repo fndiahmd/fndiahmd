@@ -5,13 +5,17 @@
 </body>
 
 <div align="center">
-<img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-<img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=fff" />
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />
+  <a href="https://www.linkedin/in/tassiaaccioly">
+    <img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.linkedin/in/tassiaaccioly">  
+    <img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=fff" />
+  </a>
+  <a href="https://www.instagram.com/fndiahmad_/">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
 </div>
-[linkedin]: https://www.linkedin/in/tassiaaccioly
-[twitter]: https://www.linkedin/in/tassiaaccioly
-[instagram]: https://www.instagram.com/fndiahmad_/
+
 
 
 
