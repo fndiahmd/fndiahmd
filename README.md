@@ -1,4 +1,4 @@
-### Hi there 👋 🔭 I’m Fandi
+### Hi👋, I’m Fandi 
 
 <!--
 **fndiahmd/fndiahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>This is <a href="http://example.com/" title="Title">
+an example</a> inline link.</p>
+
+<p><a href="http://example.net/">This link</a> has no
+title attribute.</p>
