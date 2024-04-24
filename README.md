@@ -72,7 +72,7 @@ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-Cloud Server
+Cloud Servers
 
 <img src="https://skillicons.dev/icons?i=googlecloud,firebase" />
 
