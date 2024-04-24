@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img align="left" alt="fndiahmd | LinkedIn" src="./linkedin.svg">][linkedin]
+[<img align="left" width="22px" alt="fndiahmd | LinkedIn" src="./linkedin.svg">][linkedin]
 
 [linkedin]: https://www.linkedin/in/tassiaaccioly
 
