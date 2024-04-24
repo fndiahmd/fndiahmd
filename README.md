@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img align="left" alt="fndiahmd | LinkedIn" src="./linkedin.svg">][linkedin]
+
+[linkedin]: https://www.linkedin/in/tassiaaccioly
+
 <p>This is <a href="http://example.com/" title="Title">
 an example</a> inline link.</p>
 
