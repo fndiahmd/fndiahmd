@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img align="left" width="22px" alt="fndiahmd | LinkedIn" src="./linkedin.svg">][linkedin]
 
-[linkedin]: https://www.linkedin/in/tassiaaccioly
 
 <p>This is <a href="http://example.com/" title="Title">
 an example</a> inline link.</p>
 
 <p><a href="http://example.net/">This link</a> has no
 title attribute.</p>
+
+
+
+###Connect with me:
+[<img color="#0A66C2" align="left" width="22px" alt="fndiahmd | LinkedIn" src="./linkedin.svg">][linkedin]
+
+[linkedin]: https://www.linkedin/in/tassiaaccioly
