@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/index.min.js"></script>
 
 
 <p>This is <a href="http://example.com/" title="Title">
@@ -24,7 +25,8 @@ title attribute.</p>
 
 
 
-###Connect with me:
-[<img color="#0A66C2" align="left" width="22px" alt="fndiahmd | LinkedIn" src="./linkedin.svg">][linkedin]
+#Connect with me:
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/simpleicons.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin/in/tassiaaccioly
