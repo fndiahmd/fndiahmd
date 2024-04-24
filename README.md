@@ -1,9 +1,4 @@
 <h1 align="center">Hi👋, I’m Fandi</h1>
-<body>
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" />
-  <p align="center">tes</p>
-</body>
-
 
 <div align="center">
   <a href="https://www.linkedin/in/tassiaaccioly">
@@ -15,6 +10,7 @@
   <a href="https://www.instagram.com/fndiahmad_/">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
+    <img src="https://badgen.net/github/commits/micromatch/micromatch/gh-pages" />
 </div>
 
 
