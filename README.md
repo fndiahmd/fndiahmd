@@ -77,5 +77,10 @@ Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,sublime,postman,git,github,gitlab,androidstudio" />
 
+---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fndiahmd)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
