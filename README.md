@@ -1,3 +1,4 @@
+<img src="./icons/header_1.png" />
 <h1 align="center">Hi👋, I’m Fandi</h1>
 
 <div align="center">
