@@ -1,5 +1,5 @@
 <img src="./icons/header_1.png" />
-<h1 align="center">Hi👋, I’m Fandi</h1>
+<h1 align="center">Hi <img src="./icons/Hi.gif" width="40" height="40" />, I’m Fandi</h1>
 
 <div align="center">
   <a href="https://www.linkedin/in/tassiaaccioly">
@@ -13,11 +13,6 @@
   </a>
     <img src="https://komarev.com/ghpvc/?username=fndiahmd&style=for-the-badge" />
 </div>
-
-
-
-
-
 
 <!--
 **fndiahmd/fndiahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
