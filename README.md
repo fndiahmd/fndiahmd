@@ -3,8 +3,15 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" />
   <p align="center">tes</p>
 </body>
+
+<div align="center">
 <img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-<img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter" />
+<img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=fff" />
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />
+</div>
+[linkedin]: https://www.linkedin/in/tassiaaccioly
+[twitter]: https://www.linkedin/in/tassiaaccioly
+[instagram]: https://www.instagram.com/fndiahmad_/
 
 
 
@@ -32,6 +39,8 @@ an example</a> inline link.</p>
 <p><a href="http://example.net/">This link</a> has no
 title attribute.</p>
 -->
+
+
 
 
 
