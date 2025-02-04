@@ -57,21 +57,6 @@
 
 ---
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/fndiahmd/repo/pull/1) in [fndiahmd/repo](https://github.com/fndiahmd/repo)
-2. 🚀 Published release [v1.0.0](https://github.com/fndiahmd/repo/releases/tag/v1.0.0)
-3. 🛠️ Fixed bug in [fndiahmd/repo](https://github.com/fndiahmd/repo)
-<!--END_SECTION:activity-->
-
----
-
-## Fun Fact
-⚡ I love coding while listening to music! 🎶
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fndiahmd&theme=radical" />
 </p>
