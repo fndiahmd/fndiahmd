@@ -21,12 +21,10 @@
 [<img src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 [<img src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img src="https://skillicons.dev/icons?i=instagram" />][instagram]
-[<img src="https://skillicons.dev/icons?i=discord" />][discord]
 
 [linkedin]: https://www.linkedin.com/in/fandiahmad19
 [twitter]: https://twitter.com/fandi461849
 [instagram]: https://www.instagram.com/fndiahmad_/
-[discord]: https://discord.com/users/yourdiscordid
 
 <br><br>
 
