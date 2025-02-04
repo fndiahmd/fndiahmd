@@ -11,80 +11,69 @@
   <a href="mailto:fndiahmd19@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=fndiahmd&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=fndiahmd&style=for-the-badge" />
 </div>
 
-<!--
-**fndiahmd/fndiahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--<script src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/index.min.js"></script>
-
-
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
-
-<p><a href="http://example.net/">This link</a> has no
-title attribute.</p>
--->
-
-
-
-
+---
 
 # Connect with me:
 
 [<img src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 [<img src="https://skillicons.dev/icons?i=twitter" />][twitter]
 [<img src="https://skillicons.dev/icons?i=instagram" />][instagram]
-<img src="https://skillicons.dev/icons?i=discord" />
+[<img src="https://skillicons.dev/icons?i=discord" />][discord]
 
 [linkedin]: https://www.linkedin.com/in/fandiahmad19
 [twitter]: https://twitter.com/fandi461849
 [instagram]: https://www.instagram.com/fndiahmad_/
+[discord]: https://discord.com/users/yourdiscordid
 
 <br><br>
 
-
 # Languages & Tools
-Backend
 
+## Backend
 <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" />
 
-Frontend
-
+## Frontend
 <img src="https://skillicons.dev/icons?i=js,dart,flutter,typescript,bootstrap,css,html,jquery,react" />
 
-Database
-
+## Database
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-Cloud Servers
-
+## Cloud Servers
 <img src="https://skillicons.dev/icons?i=googlecloud,firebase" />
 
-Design
-
+## Design
 <img src="https://skillicons.dev/icons?i=figma" />
 
-Tools
-
+## Tools
 <img src="https://skillicons.dev/icons?i=vscode,sublime,postman,git,github,gitlab,androidstudio" />
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fndiahmd)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+## GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fndiahmd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fndiahmd&layout=compact&theme=radical)
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/fndiahmd/repo/pull/1) in [fndiahmd/repo](https://github.com/fndiahmd/repo)
+2. 🚀 Published release [v1.0.0](https://github.com/fndiahmd/repo/releases/tag/v1.0.0)
+3. 🛠️ Fixed bug in [fndiahmd/repo](https://github.com/fndiahmd/repo)
+<!--END_SECTION:activity-->
+
+---
+
+## Fun Fact
+⚡ I love coding while listening to music! 🎶
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fndiahmd&theme=radical" />
+</p>
